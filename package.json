@@ -1,5 +1,5 @@
 {
-  "name": "Falah-fe",
+  "name": "falah-fe",
   "packageManager": "yarn@4.5.1",
   "private": true,
   "workspaces": [
