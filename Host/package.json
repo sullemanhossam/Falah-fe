@@ -11,6 +11,7 @@
   "scripts": {
     "serve-static": "rsbuild build && npx serve dist -s",
     "dev": "rsbuild dev",
+    "dev:host": "rsbuild dev",
     "build": "rsbuild build",
     "storybook": "storybook dev",
     "components:storybook": "yarn storybook",
